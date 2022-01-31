@@ -11,9 +11,9 @@ const output2 = Math.ceil(myNumber2);
 
 // floor Number
 
-const myNumber3 = 22.75001;
+const myNumber3 = 13.67;
 const output3 = Math.floor(myNumber3);
-// console.log(output3);
+console.log(output3);
 
 // rounding Number
 
@@ -39,5 +39,5 @@ for(let i = 0; i <= 20; i++){
     // const rounded = Math.floor(output6);
     const output6 = Math.random() * 6;
     const rounded = Math.round(output6);
-    console.log(rounded);
+    // console.log(rounded);
 }
